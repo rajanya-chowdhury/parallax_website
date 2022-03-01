@@ -81,17 +81,17 @@ body, html {
   }
 
 .img {
-  background-image: url("hiker.jpeg");
+  background-image: url("/imgs/hiker.jpeg");
   min-height: 100%;
 }
 
 .img2 {
-  background-image: url("South Korea.jpeg");
+  background-image: url("/imgs/South Korea.jpeg");
   min-height: 400px;
 }
 
 .img3 {
-  background-image: url("France.jpeg");
+  background-image: url("/imgs/France.jpeg");
   min-height: 400px;
 }
 
