@@ -86,7 +86,7 @@ body, html {
 }
 
 .img2 {
-  background-image: url("/imgs/South Korea.jpeg");
+  background-image: url("../South Korea.jpeg");
   min-height: 400px;
 }
 
