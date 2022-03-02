@@ -85,12 +85,12 @@ body, html {
   min-height: 100%;
 }
 
-.img1 {
+.img2 {
   background-image: url("South Korea1.jpeg") ;
   min-height: 400px;
 }
 
-.img2 {
+.img1 {
   background-image: url("Taj-Mahal.jpg");
   min-height: 400px;
 }
