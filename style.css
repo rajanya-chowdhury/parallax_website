@@ -81,17 +81,17 @@ body, html {
   }
 
 .img {
-  background-image: url("hiker.jpeg");
+  background-image: url("hiker1.jpg");
   min-height: 100%;
 }
 
 .img2 {
-  background-image: url("South Korea.jpeg");
+  background-image: url("Taj-Mahal.jpg");
   min-height: 400px;
 }
 
 .img3 {
-  background-image: url("France.jpeg");
+  background-image: url("japan.jpg");
   min-height: 400px;
 }
 
@@ -117,4 +117,8 @@ h3 {
   text-transform: uppercase;
   font: 20px "Lato", sans-serif;
   color: #111;
+}
+
+.lipsum {
+  text-align: center;
 }
