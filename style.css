@@ -70,7 +70,7 @@ body, html {
   }
 
   /* :) */
-  .img, .img2, .img3 {
+  .img, .img2, .img3 , .img4, .img1{
     position: relative;
     opacity: 0.65;
     background-attachment: fixed;
@@ -85,6 +85,11 @@ body, html {
   min-height: 100%;
 }
 
+.img1 {
+  background-image: url("south korea.jpg") ;
+  min-height: 400px;
+}
+
 .img2 {
   background-image: url("Taj-Mahal.jpg");
   min-height: 400px;
@@ -92,6 +97,11 @@ body, html {
 
 .img3 {
   background-image: url("japan.jpg");
+  min-height: 400px;
+}
+
+.img4 {
+  background-image: url("singapore1.jpg");
   min-height: 400px;
 }
 
