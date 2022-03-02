@@ -1,4 +1,4 @@
 # parallax_website
 
 Checkout the live website :
-https://parallax-website.vercel.app/
+https://parallax-website-rajanya-chowdhury.vercel.app/
